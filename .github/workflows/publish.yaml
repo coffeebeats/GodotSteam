@@ -3,7 +3,7 @@ name: "🚀 Release: Plugin version"
 on:
   push:
     branches:
-      - main
+      - gdextension-plugin
   workflow_dispatch:
 
 defaults:
