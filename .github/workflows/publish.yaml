@@ -24,5 +24,5 @@ jobs:
       - uses: coffeebeats/godot-infra/package-addon@v3
         with:
           subfolder: godotsteam
-          target-branch: "godot-v4.5"
-          godot-editor-version: v4.5-stable
+          target-branch: "godot-v4.6"
+          godot-editor-version: v4.6-stable
