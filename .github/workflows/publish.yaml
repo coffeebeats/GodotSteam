@@ -26,3 +26,9 @@ jobs:
           subfolder: godotsteam
           target-branch: "godot-v4.6"
           godot-editor-version: v4.6-stable
+          file-excludes: |
+            androidarm64
+            linux32
+            linux64
+            linuxarm64
+            win32
