@@ -30,7 +30,7 @@ You can [download pre-compiled versions of this repo here](https://codeberg.org/
 
 **Version 4.22 Changes**
 
-- Added: pre-commit static checks, ***thanks to false***
+- Added: pre-commit static checks, ***thanks to fales***
 - Changed: merged GDExtension branch into Godot 4, ***thanks to fales***
 - Changed: improvements to the build system, ***thanks to fales***
 - Changed: revised small bits of code
