@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is [@coffeebeats](https://github.com/coffeebeats)' fork of the `gdextension-plugin` branch of [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam). Each push to `gdextension-plugin` publishes `addons/godotsteam` to the [`dist`](https://github.com/coffeebeats/GodotSteam/tree/dist) branch, reimported with the Godot version in [`.godot-version`](./.godot-version). Add it to a project with `git submodule add -b dist https://github.com/coffeebeats/GodotSteam addons/godotsteam`, then `git config -f .gitmodules submodule.addons/godotsteam.shallow true`, since this repository's history carries every upstream binary release. It requires Godot 4.4 or newer, per `compatibility_minimum` in `addons/godotsteam/godotsteam.gdextension`.
+
 # GodotSteam for GDExtension | Community Edition
 An ecosystem of tools for [Godot Engine](https://godotengine.org) and [Valve's Steam](https://store.steampowered.com). For the Windows, Linux, and Mac platforms.
 
