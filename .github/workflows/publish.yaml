@@ -23,6 +23,5 @@ jobs:
           file-excludes: |
             androidarm64
             linux32
-            linux64
             linuxarm64
             win32
